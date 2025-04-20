@@ -93,6 +93,6 @@ Este projeto é parte de uma estratégia de longo prazo para atuar futuramente n
 
 **Vamos juntos!** 🔥
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40MeuPerfil-blue)](https://x.com/edummorenoneto)
+# [X | Twitter](https://x.com/edummorenoneto)
 
 # [LinkedIn](https://www.linkedin.com/in/eduardo-moreno-neto/)
