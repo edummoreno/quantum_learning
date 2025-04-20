@@ -27,6 +27,11 @@ Dominar os fundamentos teóricos e práticos da Computação Quântica, aplicand
 
 ---
 
+# 🚀 Progresso do Projeto
+
+[![progresso](https://img.shields.io/badge/Progresso-20%25-blue)](#)
+
+---
 ## 📅 Cronograma Mensal
 
 ### Mês 1 - Fundamentos de Python e Álgebra Linear
