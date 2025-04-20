@@ -1,0 +1,35 @@
+# Ignore ambientes virtuais
+venv/
+.env/
+*.env
+
+# Ignore arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore arquivos temporários do sistema
+*.swp
+*.swo
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignore pastas de configurações de editores
+.vscode/
+.idea/
+
+# Ignore logs e dados temporários
+*.log
+logs/
+output/
+
+# Ignore arquivos ocultos de sistema
+ehthumbs.db
+Desktop.ini
+
