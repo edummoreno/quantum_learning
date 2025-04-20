@@ -9,15 +9,11 @@ Este repositório vai documentar minha jornada de estudos, projetos e evolução
 
 ## 📖 Índice
 
-- [🎯 Objetivo](#-objetivo)
-- [📅 Cronograma](#-cronograma)
-- [📂 Estrutura do Projeto](#-estrutura-do-projeto)
-- [🧪 Projetos Práticos](#-projetos-práticos)
-- [📚 Estudos e Resumos de Livros](#-estudos-e-resumos-de-livros)
-- [🧠 Checklists Mensais](#-checklists-mensais)
-- [📎 Referências e Materiais](#-referências-e-materiais)
-- [🛠 Ferramentas Utilizadas](#-ferramentas-utilizadas)
-- [🚀 Sobre o Autor](#-sobre-o-autor)
+- [🎯 Objetivo](#objetivo)
+- [📅 Cronograma Mensal](#cronograma-mensal)
+- [🛠 Ferramentas](#ferramentas)
+- [🧠 Conhecimentos Fundamentais](#conhecimentos-fundamentais)
+- [🚀 Sobre mim](#sobre-mim)
 
 ---
 

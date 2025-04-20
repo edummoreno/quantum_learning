@@ -24,6 +24,7 @@ O objetivo é construir uma base sólida para atuar futuramente em áreas relaci
 - [🧠 Checklists de Aprendizado](#checklists-de-aprendizado)
 - [🛠 Ferramentas Utilizadas](#ferramentas-utilizadas)
 - [🚀 Sobre o Autor](#sobre-o-autor)
+- [📎 Contato](#contato)
 
 ---
 
